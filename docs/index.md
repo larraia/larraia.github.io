@@ -1,6 +1,6 @@
 
 [Experience](#experience) | [Selected publications](#publications) | [Code samples](#code-samples)
------------|-----------|-----------
+
 
 ## Experience
 
