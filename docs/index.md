@@ -4,7 +4,7 @@
 
 ## Experience
 
-My full curriculum vitae in pdf [here](cv.pdf).
+My full curriculum vitae, with slighly more info and in pdf format [here](cv.pdf).
 
 * **SENIOR CRYPTOGRAPHY ENGINEER**
 (_Openchip, 2025 – present, Barcelona_)
