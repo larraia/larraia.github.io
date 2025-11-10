@@ -1,7 +1,7 @@
 
 [Experience](#experience) | [Selected publications](#publications) | [Code samples](#code-samples)
 
-![avatar](../pictures/avatar.jpg)
+![avatar](avatar.jpg)
 ## Experience
 
 My full curriculum vitae, with slightly more info and in pdf format [here](cv.pdf).
