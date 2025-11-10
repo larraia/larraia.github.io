@@ -20,9 +20,9 @@ Filed patents and **published academic articles** on NFTs, auction schemes, Bitc
 Design and analysis of e-voting protocols deployed in national elections in several countries. **Team lead** of the Cryptography library.  **Writing up specifications**.
 
 * **TECHNICAL CONSULTANT** (_Sistemas Informaticos Abiertos, 2017 – 2018, Barcelona_)
-Consultancy on identity management for major Spanish Companies. 
+Consultancy on identity management for major spanish Companies. 
 
-* **POST DOCTORAL RESEARCHER** (_Royal Holloway, 2015 – 2016 University London_)
+* **POST DOCTORAL RESEARCHER** (_Royal Holloway, 2015 – 2016, London_)
 Conducting research on Cryptography. Focusing on Multilinear Maps and Indistinguishability Obfuscation.
 
 ## Selected publications
