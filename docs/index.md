@@ -4,7 +4,7 @@
 ![avatar](../pictures/avatar.jpg)
 ## Experience
 
-My full curriculum vitae, with slighly more info and in pdf format [here](cv.pdf).
+My full curriculum vitae, with slightly more info and in pdf format [here](cv.pdf).
 
 * **SENIOR CRYPTOGRAPHY ENGINEER**
 (_Openchip, 2025 – present, Barcelona_)
@@ -13,7 +13,7 @@ My full curriculum vitae, with slighly more info and in pdf format [here](cv.pdf
 Design and development of the [Anoma protocol](https://anoma.net/). Including private message retrieval with **Fuzzy Message Detection**, fast on-chain verification via **proof aggregation**, and design of **light arithmetic circuits** for efficient SNARK provers.
 
 * **CRYPTOGRAPHY RESEARCHER** (_nChain, 2021 – 2024, London – remote_)
-Filed patents and **published academic articles** on NFTs, auction schemes, Bitcoin redaction, and more topics. Code optmizations in Script language for **ZKP on-chain applications**. Lead of the internal Cryptography Working Group.
+Filed patents and **published academic articles** on NFTs, auction schemes, Bitcoin redaction, and more topics. Code optimizations in Script language for **ZKP on-chain applications**. Lead of the internal Cryptography Working Group.
 
 * **PRODUCT OWNER & RESEARCHER**
 (_Scytl Electronic Voting, 2018 –  2021, Barcelona_)
