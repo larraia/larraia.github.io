@@ -1,7 +1,7 @@
 
 [Experience](#experience) | [Selected publications](#publications) | [Code samples](#code-samples)
 
-
+![avatar](../pictures/avatar.jpg)
 ## Experience
 
 My full curriculum vitae, with slighly more info and in pdf format [here](cv.pdf).
@@ -47,5 +47,5 @@ Obfuscation](https://eprint.iacr.org/2018/011)**. _Public Key Cryptography, 2018
 
 My github profile [here](https://github.com/larraia).
 
-* [Large preimage SNARKs](https://github.com/larraia/large_preimages_snarks) _This project provides SNARKs to prove and verify statements on large SHA256 preimages_
+* [Large preimage SNARKs](https://github.com/larraia/large_preimages_snarks) _This project provides SNARKs to prove and verify statements on large SHA256 preimages._
 * [Multi-key FMD](https://github.com/larraia/multikey-fmd). _Fuzzy Message Detection outsources detection of messages to an untrusted server. This project implements multi-key FMD: several servers are given different detection keys, all extracted from a single secret key._
